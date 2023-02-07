@@ -24,7 +24,22 @@ Personal development and gaining experience in new skills are my next goals that
 * Creating test cases and scenarios
 * Bug Reporting
 * Working with test data
+* Software testing
 
 ## Other skills
-* Familiarity with Agile working methodologies
+* Familiarity with **Agile** working methodologies
 * Experience with Customer Support
+
+## My courses
+* Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
+* SQL - basic course (Udemy)
+
+## Webinars & meetups
+* Software Open Day w [Capgemini Wrocław](https://www.linkedin.com/posts/capgemini_capgeminipl-capgeminipolska-getthefutureyouwant-activity-7028345146916151297-H7UA?utm_source=share&utm_medium=member_desktop)
+* Let's do IT AKAdemy 2  
+   * Autoprezentacja – jak dobrze mówić o sobie na rozmowie rekrutacyjnej i nie tylko?
+   * Nie udawaj Greka, czyli jak zrozumieć innych i dogadać się w międzykulturowym środowisku pracy
+* Sii Wrocław | [WebStack meetup](https://sii.pl/wydarzenia/webstack-meetup/#msdynttrid=DLpY8F_tRsblME_tMAskeoEs6nS09WLVaQcdsiuQWyA)
+
+
+
