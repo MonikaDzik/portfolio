@@ -36,7 +36,7 @@ Personal development and gaining experience in new skills are my next goals that
 * Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
 * SQL - basic course (Udemy) - in progress
 
-## My Test Documentaion
+## My test documentation
 * Test Cases for page [mepel.pl](https://www.canva.com/design/DAFaFi0cXHw/9EXspSsskiFQT5bdfc7FrA/view?utm_content=DAFaFi0cXHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * Bug Reports for pages [mepel.pl](https://www.canva.com/design/DAFaHM2zRG0/O-Pc5DBtAy94_DvQvn-11g/view?utm_content=DAFaHM2zRG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
