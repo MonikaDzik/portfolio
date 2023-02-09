@@ -19,6 +19,7 @@ Personal development and gaining experience in new skills are my next goals that
 * MS Office - work on a daily basis
 * PickPic
 * Canva
+* Miro
 
 ## Tech skills in basics
 * Creating test cases and scenarios
