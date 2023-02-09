@@ -1,5 +1,5 @@
 # My Tester's Portfolio
-## About me
+## About me  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/monika-dzik-wro-test76aa/)
 My name is Monika and I am a beginner tester who bravely enters the IT world. Looking for a new career path, I started reading about the work of a software tester. It turned out that I have most of the personality traits of a good tester.
 
 By completing the basic training and obtaining the ***ISTQB certificate FL***, I want to show my commitment for gaining practical skills in a new profession. I have a **curiosity** to understand how things work, and I find it very interesting to be part of the software development process.
