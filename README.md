@@ -36,6 +36,10 @@ Personal development and gaining experience in new skills are my next goals that
 * Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
 * SQL - basic course (Udemy) - in progress
 
+## My Test Documentaion
+* Test Cases for page [mepel.pl](https://www.canva.com/design/DAFaFi0cXHw/9EXspSsskiFQT5bdfc7FrA/view?utm_content=DAFaFi0cXHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* Bug Reports for pages [mepel.pl](https://www.canva.com/design/DAFaHM2zRG0/O-Pc5DBtAy94_DvQvn-11g/view?utm_content=DAFaHM2zRG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Webinars & meetups
 * [TestFest 2023](https://testfest.pl/)
 * Software Open Day w [Capgemini Wrocław](https://www.linkedin.com/posts/capgemini_capgeminipl-capgeminipolska-getthefutureyouwant-activity-7028345146916151297-H7UA?utm_source=share&utm_medium=member_desktop)
