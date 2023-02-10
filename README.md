@@ -1,4 +1,5 @@
 # My Tester's Portfolio
+
 ## About me  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/monika-dzik-wro-test76aa/)
 My name is Monika and I am a beginner tester who bravely enters the IT world. Looking for a new career path, I started reading about the work of a software tester. It turned out that I have most of the personality traits of a good tester.
 
@@ -8,18 +9,30 @@ I have experience in working with clients and in the development of documentatio
 
 Personal development and gaining experience in new skills are my next goals that I set for myself.  I am looking for a company that will give me a chance to do so.
 
-## Known in basic 
-* SQL
-* Trello
-* JIRA
-* AzureDevOps
-* Selenium IDE
+
+---
+
+
+## My test documentation
+Here you will find projects that I run independently. There will be more and more of them over time. I write test cases to constantly practice my skills.
+I even found some bugs :smiley:
+
+* [Test Cases](https://github.com/MonikaDzik/test_cases/blob/main/README.md#test-cases-paperclip) for page [mepel.pl](https://mepel.pl/)
+* [Bug Reports](https://github.com/MonikaDzik/test_cases/blob/main/README.md#bug-reports-beetle) for pages [mepel.pl](https://mepel.pl/)
+
+
+## Tools known in basic 
+* SQL - I know basic commands and interface
+* Trello - reporting errors and controlling the work status
+* JIRA - convenient for teamwork
+* AzureDevOps - multi-tool that I learned during the course
+* Selenium IDE - a basic extension to speed up work
 
 ## Other tools
 * MS Office - work on a daily basis
-* PickPic
-* Canva
-* Miro
+* PickPic - practical for detailing errors
+* Canva - one of my favorite tools 
+* Miro - perfect for creating a mind map
 
 ## Tech skills in basics
 * Creating test cases and scenarios
@@ -36,11 +49,9 @@ Personal development and gaining experience in new skills are my next goals that
 * Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
 * SQL - basic course (Udemy) - in progress
 
-## My test documentation
-* Test Cases for page [mepel.pl](https://www.canva.com/design/DAFaFi0cXHw/9EXspSsskiFQT5bdfc7FrA/view?utm_content=DAFaFi0cXHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* Bug Reports for pages [mepel.pl](https://www.canva.com/design/DAFaHM2zRG0/O-Pc5DBtAy94_DvQvn-11g/view?utm_content=DAFaHM2zRG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ## Webinars & meetups
+Participating in industry meetings is one of the best elements of the IT industry. A great way to learn new things and look at familiar aspects from a different perspective
+
 * [TestFest 2023](https://testfest.pl/)
 * Software Open Day w [Capgemini Wrocław](https://www.linkedin.com/posts/capgemini_capgeminipl-capgeminipolska-getthefutureyouwant-activity-7028345146916151297-H7UA?utm_source=share&utm_medium=member_desktop)
 * Let's do IT AKAdemy 2  
