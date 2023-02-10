@@ -13,7 +13,7 @@ Personal development and gaining experience in new skills are my next goals that
 ---
 
 
-## My test documentation
+## [My test documentation](https://github.com/MonikaDzik/test_cases)
 Here you will find projects that I run independently. There will be more and more of them over time. I write test cases to constantly practice my skills.
 I even found some bugs :smiley:
 
