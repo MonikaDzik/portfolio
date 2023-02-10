@@ -18,7 +18,7 @@ Here you will find projects that I run independently. There will be more and mor
 I even found some bugs :smiley:
 
 * [Test Cases](https://github.com/MonikaDzik/test_cases/blob/main/README.md#test-cases-paperclip) for page [mepel.pl](https://mepel.pl/)
-* [Bug Reports](https://github.com/MonikaDzik/test_cases/blob/main/README.md#bug-reports-beetle) for pages [mepel.pl](https://mepel.pl/)
+* [Bug Reports](https://github.com/MonikaDzik/test_cases#bug-reports-bug) for pages [mepel.pl](https://mepel.pl/)
 
 
 ## Tools known in basic 
