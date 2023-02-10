@@ -64,3 +64,9 @@ Participating in industry meetings is one of the best elements of the IT industr
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 
+## Contact
+Have questions? Feel free to write!
+
+:email: alex.mon8787@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/Here%20Is%20My%20Profile-LinkedIn-informational)](https://www.linkedin.com/in/monika-dzik-wro-test76aa/)
