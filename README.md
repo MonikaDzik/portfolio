@@ -49,7 +49,7 @@ I even found some bugs :smiley:
 * Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
 * SQL - basic course (Udemy) - in progress
 
-## Webinars & meetups
+## Events, webinars & meetups
 Participating in industry meetings is one of the best elements of the IT industry. A great way to learn new things and look at familiar aspects from a different perspective
 
 * [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl) XIV edycja 
