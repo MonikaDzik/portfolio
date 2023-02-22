@@ -52,7 +52,7 @@ I even found some bugs :smiley:
 ## Webinars & meetups
 Participating in industry meetings is one of the best elements of the IT industry. A great way to learn new things and look at familiar aspects from a different perspective
 
-* [TestFest 2023](https://testfest.pl/)
+* [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl) XIV edycja 
 * Software Open Day w [Capgemini Wrocław](https://www.linkedin.com/posts/capgemini_capgeminipl-capgeminipolska-getthefutureyouwant-activity-7028345146916151297-H7UA?utm_source=share&utm_medium=member_desktop)
 * Let's do IT AKAdemy 2  
    * Autoprezentacja – jak dobrze mówić o sobie na rozmowie rekrutacyjnej i nie tylko?
