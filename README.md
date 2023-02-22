@@ -70,3 +70,9 @@ Have questions? Feel free to write!
 :email: alex.mon8787@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/Here%20Is%20My%20Profile-LinkedIn-informational)](https://www.linkedin.com/in/monika-dzik-wro-test76aa/)
+
+---
+
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/MonikaDzik/portfolio?color=lightgreen&logo=GitHub&logoColor=white)](https://github.com/MonikaDzik)  [![GitHub watchers](https://img.shields.io/github/watchers/MonikaDzik/portfolio?label=GitHub%20watchers&logoColor=red&style=social)](https://github.com/MonikaDzik)
+
