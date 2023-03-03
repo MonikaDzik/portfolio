@@ -17,8 +17,8 @@ Personal development and gaining experience in new skills are my next goals that
 Here you will find projects that I run independently. There will be more and more of them over time. I write test cases to constantly practice my skills.
 I even found some bugs :smiley:
 
-* [Test Cases](https://github.com/MonikaDzik/test_cases/blob/main/README.md#test-cases-paperclip) for page [mepel.pl](https://mepel.pl/)
-* [Bug Reports](https://github.com/MonikaDzik/test_cases#bug-reports-bug) for pages [mepel.pl](https://mepel.pl/)
+* [Test Cases](https://github.com/MonikaDzik/test_cases/blob/main/README.md#test-cases-paperclip) 
+* [Bug Reports](https://github.com/MonikaDzik/test_cases#bug-reports-bug) 
 
 
 ## Tools known in basic 
