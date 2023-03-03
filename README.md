@@ -74,5 +74,5 @@ Have questions? Feel free to write!
 ---
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/MonikaDzik/portfolio?color=lightgreen&logo=GitHub&logoColor=white)](https://github.com/MonikaDzik)  [![GitHub watchers](https://img.shields.io/github/watchers/MonikaDzik/portfolio?label=GitHub%20watchers&logoColor=red&style=social)](https://github.com/MonikaDzik)
+[![GitHub last commit](https://img.shields.io/github/last-commit/MonikaDzik/portfolio?logo=github&logoColor=green)](https://github.com/MonikaDzik)  [![GitHub watchers](https://img.shields.io/github/watchers/MonikaDzik/portfolio?label=GitHub%20watchers&logoColor=red&style=social)](https://github.com/MonikaDzik)
 
