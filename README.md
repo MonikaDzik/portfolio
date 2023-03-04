@@ -23,7 +23,7 @@ I even found some bugs :smiley:
 
 ## Tools known in basic 
 * SQL - I know basic commands and interface
-+ GIT -  GitLab and GitHub.
+* GIT - I know why it's so popular and I'm familiar with commands. *I also know how to exit vim* 😉
 * Trello - reporting errors and controlling the work status
 * JIRA - convenient for teamwork
 * AzureDevOps - multi-tool that I learned during the course
