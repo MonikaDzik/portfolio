@@ -23,6 +23,7 @@ I even found some bugs :smiley:
 
 ## Tools known in basic 
 * SQL - I know basic commands and interface
++ GIT -  GitLab and GitHub.
 * Trello - reporting errors and controlling the work status
 * JIRA - convenient for teamwork
 * AzureDevOps - multi-tool that I learned during the course
@@ -45,16 +46,17 @@ I even found some bugs :smiley:
 * Experience with Customer Support
 
 ## My courses
+* Poznaj Git! Warsztaty wprowadzające do obsługi Gita *Nie bądź [LAMA](https://drive.google.com/file/d/1zzZU2imUlVobsYn67au7L3AoBeHfzkyn/view?usp=sharing), ucz się programowania* | [CODE:ME Fundation](https://codeme.pl/)
 * ISTQB Certified Tester Foundation Level
-* Basics of testing in practice [CODE:ME Fundation](https://codeme.pl/)
+* Basics of testing in practice | [CODE:ME Fundation](https://codeme.pl/)
 * SQL - basic course (Udemy) - in progress
 
 ## Events, webinars & meetups
 Participating in industry meetings is one of the best elements of the IT industry. A great way to learn new things and look at familiar aspects from a different perspective
 
-* [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl) XIV edycja 
+* [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl/en/) XIV edycja 
 * Software Open Day w [Capgemini Wrocław](https://www.linkedin.com/posts/capgemini_capgeminipl-capgeminipolska-getthefutureyouwant-activity-7028345146916151297-H7UA?utm_source=share&utm_medium=member_desktop)
-* Let's do IT AKAdemy 2  
+* [Let's do IT AKAdemy 2](https://mamopracuj.pl/lets-do-it-akademy-2/)  
    * Autoprezentacja – jak dobrze mówić o sobie na rozmowie rekrutacyjnej i nie tylko?
    * Nie udawaj Greka, czyli jak zrozumieć innych i dogadać się w międzykulturowym środowisku pracy
 * Sii Wrocław | [WebStack meetup](https://sii.pl/wydarzenia/webstack-meetup/#msdynttrid=DLpY8F_tRsblME_tMAskeoEs6nS09WLVaQcdsiuQWyA)
